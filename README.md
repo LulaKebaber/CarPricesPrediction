@@ -2,6 +2,9 @@
 
 This repository contains a Machine Learning project focused on solving a regression task of a Car Prices Prediction.
 
+## Dataset
+The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/mohidabdulrehman/ultimate-car-price-prediction-dataset/data)
+
 ## Features
 - Multiple regression models implemented and evaluated:
   - Linear Regression
